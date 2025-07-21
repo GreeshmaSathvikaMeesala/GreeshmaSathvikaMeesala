@@ -68,7 +68,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=greeshmasathvikameesala&theme=default" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=greeshmasathvikameesala&theme=default" alt="GitHub Streak" />
 </p>
 
 <p align="center">
