@@ -68,13 +68,13 @@
 ---
 
 ### 📊 GitHub Stats
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=greeshmasathvikameesala&theme=default" alt="streak" />
+</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=greeshmasathvikameesala&show_icons=true&locale=en&theme=default" alt="stats" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=greeshmasathvikameesala&show_icons=true&locale=en&layout=compact&theme=default" alt="top-langs" />
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=greeshmasathvikameesala&theme=default" alt="streak" />
-</p>
+
