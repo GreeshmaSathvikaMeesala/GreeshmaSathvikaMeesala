@@ -68,12 +68,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="[https://streak-stats.demolab.com/?user=greeshmasathvikameesala&theme=default](https://streak-stats.demolab.com/?user=greeshmasathvikameesala)" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=greeshmasathvikameesala&show_icons=true&locale=en&theme=default" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=greeshmasathvikameesala&theme=radical" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=greeshmasathvikameesala&show_icons=true&locale=en&layout=compact&theme=default" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=greeshmasathvikameesala&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=greeshmasathvikameesala&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
