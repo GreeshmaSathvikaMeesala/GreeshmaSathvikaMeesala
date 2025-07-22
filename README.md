@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Web Developer | AI/ML Enthusiast</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding-gif">
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="300" alt="Girl Coding GIF">
 </p>
 
 <p align="center">
@@ -13,13 +13,13 @@
 
 ### 👩‍💻 About Me
 
-- 🎓 Currently pursuing my degree while building expertise in full stack development & AI/ML  
-- 💻 Passionate about scalable cloud-native apps & smart AI tools  
-- 🛠️ **Tech I love:** `Spring Boot`, `React`, `MongoDB`, `MySQL`, `Python`, `AWS`, `Flask`  
-- 🧠 **Recent Project:** Facial Keypoint Detection using CNN & OpenCV  
-- 🌱 **Learning Now:** DevOps, Model Deployment & Azure Cloud  
-- 📫 **Email:** meesalasathvika2005@gmail.com  
-- 🌐 **Portfolio:** [greeshma-porfolio.vercel.app](https://greeshma-porfolio.vercel.app/)
+- 🎓 **Student Developer:** Building my expertise in **Full Stack Development** and **AI/ML**
+- ☁️ Passionate about **cloud-native apps** & smart **AI tools**
+- 🧩 **Stack I enjoy:** `Spring Boot`, `React`, `Python`, `MongoDB`, `MySQL`, `Flask`, `AWS`
+- 🧠 **Recent Project:** *Facial Keypoint Detection using CNN & OpenCV*
+- 🚀 **Currently Learning:** DevOps, Azure Cloud & Model Deployment
+- 📫 **Email:** meesalasathvika2005@gmail.com
+- 🌐 **Portfolio:** [greeshma-portfolio.vercel.app](https://greeshma-portfolio.vercel.app/)
 
 ---
 
@@ -57,7 +57,7 @@
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ Tech Stack & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,react,nodejs,bootstrap,tailwind,angular,php,mysql,mongodb,flask,spring,git,linux,aws,azure,vscode,postman" />
