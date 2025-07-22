@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Web Developer | AI/ML Enthusiast</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="300" alt="Girl Coding GIF">
+  <img src="https://camo.githubusercontent.com/3e38d30f04e42688871c3de0a94852b9ec3c3b767e3ec2f9740fb144e462c47f/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323730343431342f73637265656e73686f74732f373436363930332f6d656469612f62303861623537363331366264343538326665663138396634373163643965352e676966" width="300" alt="Girl Coding GIF">
 </p>
 
 <p align="center">
@@ -11,19 +11,21 @@
 
 ---
 
-### 👩‍💻 About Me
+## 📌 About Me
 
-- 🎓 **Student Developer:** Building my expertise in **Full Stack Development** and **AI/ML**
-- ☁️ Passionate about **cloud-native apps** & smart **AI tools**
-- 🧩 **Stack I enjoy:** `Spring Boot`, `React`, `Python`, `MongoDB`, `MySQL`, `Flask`, `AWS`
-- 🧠 **Recent Project:** *Facial Keypoint Detection using CNN & OpenCV*
-- 🚀 **Currently Learning:** DevOps, Azure Cloud & Model Deployment
-- 📫 **Email:** meesalasathvika2005@gmail.com
-- 🌐 **Portfolio:** [greeshma-portfolio.vercel.app](https://greeshma-portfolio.vercel.app/)
+| 🚀 | **Details** |
+|---|---|
+| 🎓 | **Student Developer:** Building expertise in Full Stack & AI/ML |
+| ☁️ | Passionate about **Cloud-native apps** & smart **AI tools** |
+| 🧩 | **Tech Stack:** Spring Boot, React, Python, MongoDB, MySQL, Flask, AWS |
+| 🧠 | **Recent:** Facial Keypoint Detection with CNN & OpenCV |
+| 🌱 | **Currently Learning:** DevOps, Azure, Model Deployment |
+| 📫 | meesalasathvika2005@gmail.com |
+| 🌐 | [Portfolio](https://greeshma-portfolio.vercel.app/) |
 
 ---
 
-### 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/greeshma-sathvika-meesala-84b150276">
@@ -57,22 +59,26 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,react,nodejs,bootstrap,tailwind,angular,php,mysql,mongodb,flask,spring,git,linux,aws,azure,vscode,postman" />
-</p>
+| Languages | Tools & Frameworks | Cloud & DevOps |
+|-----------|--------------------|----------------|
+| <img src="https://skillicons.dev/icons?i=java,python,javascript" height="30"> | <img src="https://skillicons.dev/icons?i=spring,react,flask,nodejs" height="30"> | <img src="https://skillicons.dev/icons?i=aws,azure,linux,git" height="30"> |
+| <img src="https://skillicons.dev/icons?i=html,css" height="30"> | <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,angular" height="30"> | <img src="https://skillicons.dev/icons?i=vscode,postman" height="30"> |
+| <img src="https://skillicons.dev/icons?i=mysql,mongodb,php" height="30"> | | |
 
 ---
 
-### 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=greeshmasathvikameesala&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=greeshmasathvikameesala&theme=tokyonight" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=greeshmasathvikameesala&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=greeshmasathvikameesala&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=greeshmasathvikameesala&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=greeshmasathvikameesala&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+
+---
